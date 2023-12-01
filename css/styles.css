@@ -105,8 +105,7 @@ li {
 }
 
 .main-team {
-  flex-shrink: 0;
-  background: var(--CLOUD, #f4f4fd);
+  background-color: #F4F4FD;
 }
 .team-second-title {
   color: #2e2f42;
@@ -117,9 +116,7 @@ li {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-.main-team {
-  background-color: #F4F4FD;
-}
+
 .team-third-title {
   color: #2e2f42;
   text-align: center;
@@ -129,7 +126,7 @@ li {
   letter-spacing: 0.4px;
 }
 .main-list {
-  background-color: #FFFFFF;
+  background-color: #FFF;
 }
 
 .portfolio-second-title {
