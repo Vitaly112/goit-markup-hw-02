@@ -125,10 +125,9 @@ li {
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
-.main-list {
-  background-color: #FFF;
+.main-link {
+  background-color: #FFFFFF;
 }
-
 .portfolio-second-title {
   color: #2e2f42;
   text-align: center;
